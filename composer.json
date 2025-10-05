@@ -1,5 +1,5 @@
 {
-    "name": "jbbcode/jbbcode",
+    "name": "g5bot/jbbcode",
     "type": "library",
     "description": "A lightweight but extensible BBCode parser written in PHP 5.3.",
     "keywords": ["BBCode", "BB"],
